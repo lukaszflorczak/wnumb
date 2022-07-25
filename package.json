@@ -1,6 +1,6 @@
 {
   "name": "wnumb",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "wNumb - JavaScript Number & Money formatting",
   "main": "wNumb.js",
   "repository": {
