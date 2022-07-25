@@ -301,7 +301,7 @@
 
         // Floating points in JS are stable up to 7 decimals.
       } else if (optionName === "decimals") {
-        if (optionValue >= 0 && optionValue < 8) {
+        if (optionValue >= 0 && optionValue < 9) {
           filteredOptions[optionName] = optionValue;
         } else {
           throw new Error(optionName);
